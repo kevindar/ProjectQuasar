@@ -9,9 +9,11 @@ Project ini akan mencakup pembuatan model prediksi yang dapat mengklasifikasikan
 
 ### Documentation
 ![Sky Portrait from SDSS](https://github.com/kevindar/ProjectQuasar/blob/master/docs/1.png)
+
 Sky Portrait from SDSS
 
 ![Sky Portrait from SDSS](https://github.com/kevindar/ProjectQuasar/blob/master/docs/2.png)
+
 Machine learning model using Random Forest Classifier results spotted:
 5000 Galaxies
 4119 Stars
@@ -19,11 +21,12 @@ Machine learning model using Random Forest Classifier results spotted:
 with an accuracy score of 98,93%
 
 ![Sky Portrait from SDSS](https://github.com/kevindar/ProjectQuasar/blob/master/docs/6.png)
+
 3D Mapping of the classified objects using coordinate data (declination and right ascension) and photometric redshift for calculating distances
 
 ### Analytical data
 
-Check out the powerpoint file in the repo here for detailed analysis
+Check out the powerpoint file in the repo [Here](https://drive.google.com/open?id=1LUnS5Vwav0Uf0rMocLxEusvsL0qBWD2R "Project Analysis ppt") for detailed analysis
 ![Sky Portrait from SDSS](https://github.com/kevindar/ProjectQuasar/blob/master/docs/5.png)
 ![Sky Portrait from SDSS](https://github.com/kevindar/ProjectQuasar/blob/master/docs/4.png)
 ![Sky Portrait from SDSS](https://github.com/kevindar/ProjectQuasar/blob/master/docs/3.png)
