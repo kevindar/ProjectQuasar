@@ -26,7 +26,8 @@ with an accuracy score of 98,93%
 
 ### Analytical data
 
-Check out the powerpoint file in the repo [Here](https://drive.google.com/open?id=1LUnS5Vwav0Uf0rMocLxEusvsL0qBWD2R "Project Analysis ppt") for detailed analysis
+Check out the powerpoint file [Here](https://drive.google.com/open?id=1LUnS5Vwav0Uf0rMocLxEusvsL0qBWD2R "Project Analysis ppt") for detailed analysis 
+(Pro Tip: run in the latest version of PowerPoint in Full Screen for best appearance!)
 ![Sky Portrait from SDSS](https://github.com/kevindar/ProjectQuasar/blob/master/docs/5.png)
 ![Sky Portrait from SDSS](https://github.com/kevindar/ProjectQuasar/blob/master/docs/4.png)
 ![Sky Portrait from SDSS](https://github.com/kevindar/ProjectQuasar/blob/master/docs/3.png)
