@@ -8,4 +8,4 @@ In this project, we will be making a predictive model using data collected throu
 Project ini akan mencakup pembuatan model prediksi yang dapat mengklasifikasikan objek langit yang tertangkap dalam dataset Sloan Digital Sky Survey (SDSS) berdasarkan ciri" unik benda langit (Bintang, Galaksi, Quasar) menggunakan metode random tree classifier. Selain itu, juga membuat analisis perbedaan objek langit dari ciri" nya, serta membuat model 3D dari objek langit yang terdapat pada dataset, untuk mendapatkan visualisasi persebaran benda langit alam semesta.
 
 ### Documentation
-![Sky Portrait from SDSS](1.png)
+![Sky Portrait from SDSS](https://github.com/kevindar/ProjectQuasar/blob/master/docs/1.png)
